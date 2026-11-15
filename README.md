@@ -3,6 +3,8 @@ A hands-on opportunity to build and develop full-stack applications while streng
 
 <img width="1770" height="893" alt="Screenshot 2026-11-09 at 1 23 00 AM" src="https://github.com/user-attachments/assets/f9820cca-2086-42e3-9a3a-7b041162558e" />
 
+## Deployed Site
+https://savagedemorc.onrender.com/
 
 ## How to navigate
 Visit the Deployed Site: Navigate to the live application and view the login page.\
